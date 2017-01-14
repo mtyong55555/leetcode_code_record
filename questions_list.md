@@ -9,3 +9,5 @@ questions list:
 4.Repeated Substring Pattern https://leetcode.com/problems/repeated-substring-pattern/
 
 5.First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
+
+6.Plus One Linked List https://leetcode.com/problems/plus-one-linked-list/
