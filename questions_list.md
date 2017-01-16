@@ -13,3 +13,5 @@ questions list:
 6.Plus One Linked List https://leetcode.com/problems/plus-one-linked-list/
 
 7.Simplify Path https://leetcode.com/problems/simplify-path/
+
+8.Design Twitter https://leetcode.com/problems/design-twitter/
