@@ -11,3 +11,5 @@ questions list:
 5.First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
 
 6.Plus One Linked List https://leetcode.com/problems/plus-one-linked-list/
+
+7.Simplify Path https://leetcode.com/problems/simplify-path/
