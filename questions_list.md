@@ -15,3 +15,5 @@ questions list:
 7.Simplify Path https://leetcode.com/problems/simplify-path/
 
 8.Design Twitter https://leetcode.com/problems/design-twitter/
+
+9.Reverse Bits https://leetcode.com/problems/reverse-bits/
