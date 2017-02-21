@@ -17,3 +17,5 @@ questions list:
 8.Design Twitter https://leetcode.com/problems/design-twitter/
 
 9.Reverse Bits https://leetcode.com/problems/reverse-bits/
+
+10.Find K Pairs with Smallest Sums https://leetcode.com/problems/find-k-pairs-with-smallest-sums/?tab=Description
