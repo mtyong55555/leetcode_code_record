@@ -21,3 +21,5 @@ questions list:
 10.Find K Pairs with Smallest Sums https://leetcode.com/problems/find-k-pairs-with-smallest-sums/?tab=Description
 
 11.Top K Frequent Elements https://leetcode.com/problems/top-k-frequent-elements/?tab=Description
+
+12.Combination Sum https://leetcode.com/problems/combination-sum/?tab=Description
