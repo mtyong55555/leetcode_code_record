@@ -25,3 +25,5 @@ questions list:
 12.Combination Sum https://leetcode.com/problems/combination-sum/?tab=Description
 
 13.Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning/?tab=Description
+
+14.Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/?tab=Description
