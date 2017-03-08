@@ -23,3 +23,5 @@ questions list:
 11.Top K Frequent Elements https://leetcode.com/problems/top-k-frequent-elements/?tab=Description
 
 12.Combination Sum https://leetcode.com/problems/combination-sum/?tab=Description
+
+13.Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning/?tab=Description
