@@ -29,3 +29,5 @@ questions list:
 14.Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/?tab=Description
 
 15.Permutations https://leetcode.com/problems/permutations/?tab=Description
+
+16.Hamming Distance https://leetcode.com/problems/hamming-distance/?tab=Description
