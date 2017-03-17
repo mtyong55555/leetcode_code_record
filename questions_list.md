@@ -37,3 +37,5 @@ questions list:
 18.Sum of Left Leaves https://leetcode.com/problems/sum-of-left-leaves/#/description
 
 19.Island Perimeter https://leetcode.com/problems/island-perimeter/#/description
+
+20.License Key Formatting https://leetcode.com/problems/license-key-formatting/#/description
