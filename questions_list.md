@@ -39,3 +39,5 @@ questions list:
 19.Island Perimeter https://leetcode.com/problems/island-perimeter/#/description
 
 20.License Key Formatting https://leetcode.com/problems/license-key-formatting/#/description
+
+21.Decode String https://leetcode.com/problems/decode-string/#/description
