@@ -41,3 +41,5 @@ questions list:
 20.License Key Formatting https://leetcode.com/problems/license-key-formatting/#/description
 
 21.Decode String https://leetcode.com/problems/decode-string/#/description
+
+22.Intersection of Two Arrays https://leetcode.com/problems/intersection-of-two-arrays/#/description
