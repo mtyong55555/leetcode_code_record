@@ -49,3 +49,5 @@ questions list:
 23.Friend Circle https://leetcode.com/problems/friend-circles/#/description
 
 24.Target Sum https://leetcode.com/problems/target-sum/#/description
+
+25.Random Pick Index https://leetcode.com/problems/random-pick-index/#/description
