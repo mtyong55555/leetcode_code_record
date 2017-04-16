@@ -53,3 +53,5 @@ questions list:
 25.Random Pick Index https://leetcode.com/problems/random-pick-index/#/description
 
 26.Continuous Subarray Sum https://leetcode.com/problems/continuous-subarray-sum/#/description
+
+27.Serialize and Deserialize BST https://leetcode.com/problems/serialize-and-deserialize-bst/#/description
